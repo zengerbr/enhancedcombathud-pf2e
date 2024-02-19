@@ -1,0 +1,128 @@
+{
+	"enhancedcombathud-pf2e" : {
+		"Titles" : {
+			"refocus"					: "Refocar",
+			"accept"					: "Aceitar",
+			"abbort"					: "Abortar",
+			"swapin"					: "Pegar",
+			"macrolocked"				: "Macro travado",
+			"macrounlocked"				: "Macro destravado",
+			"regainedfocus"				: "{Actor} recupera <b>{n}</b> pontos de foco",
+			
+			"opensheetat"				: "Abrir ficha de personagem na {tab}"
+		},
+		
+		"Settings" : {
+			"sheetbuttontab" : {
+				"name"					: "Botão de aba da ficha",
+				"descrp"				: "A aba aberta quando a aba da ficha é clicada"
+			},
+			"rollinitiative" : {
+				"name"					: "Modo de Iniciativa",
+				"descrp"				: "O comportamento quando o botão de iniciativa acima do retrato é clicado",
+				"options" : {
+					"choiceroll"		: "Escolha de Perícia",
+					"quickroll"			: "Rolagem rápida"
+				}
+			},
+			"showpartybutton" : {
+				"name"					: "Mostrar botão do Grupo",
+				"descrp"				: "Mostra um botão que linka a fica do grupo no retrato"
+			},
+			"showfamiliarmaster" : {
+				"name"					: "Mostra botão do Familiar/Mestre",
+				"descrp"				: "Mostra um botão que linka o Familiar/Mestre do personagem no retrato"
+			},
+			"shownpctraits" : {
+				"name"					: "Mostrar Traços dos NPCs",
+				"descrp"				: "Se os traços do NPC devem aparecer no retrato do personagem"
+			},
+			"panondblclick" : {
+				"name"					: "Pan em um clique duplo",
+				"descrp"				: "Câmera vai para o token atual quando um clique duplo é dado na imagem do retrato"
+			},
+			"reversesaveskilllore" : {
+				"name"					: "Inverter salvamentos, Perícias, Saber",
+				"descrp"				: "Inverte e ordem para Saber Perícias Salvamentos"
+			},
+			"filtertrainedactions" : {
+				"name"					: "Filtrar ações treinadas",
+				"descrp"				: "If the actions that can not be used due to the character not being trained in the appropiate skill should be hidden"
+			},
+			"showtrainedrankletter" : {
+				"name"					: "Show trained rank letter",
+				"descrp"				: "Shows a letter next to saves & skills to indicate the training rank"
+			},
+			"skillrankiconscale" : {
+				"name"					: "Trained rank letter scale",
+				"descrp"				: "The scale of the rank letter for saves & skills"
+			},
+			"onlyonespellrank" : {
+				"name"					: "Only one spell rank open",
+				"descrp"				: "Closes all other spell rank panels when a spell rank is opened" 
+			},
+			"weaponsetscount" : {
+				"name"					: "Weapon sets",
+				"descrp"				: "Amount of displayed weapon sets"
+			},
+			"directStaffuse" : {
+				"name"					: "Direct Staff use",
+				"descrp"				: "If magical Staves should be used as spell casting items instead of weapons by default"
+			},
+			"consumableswap" : {
+				"name"					: "Consumeables swapable",
+				"descrp"				: "If consumables that can be held should have an action icon to swap them into the active weapon set"	
+			},
+			"reduceAoO" : {
+				"name"					: "Reduce Attack of Opportunity buttons",
+				"descrp"				: "If buttons connected to Attack of Opportunity should be reduced in size/hidden"	
+			},
+			"usetakecover": {
+				"name"					: "Use take cover",
+				"descrp"				: "If the take cover action should be used (instead of being posted to the chat)"	
+			},
+			"ECHAction" : {
+				"name1"					: "Standard Action 1",
+				"name2"					: "Standard Action 2",
+				"name3"					: "Standard Action 3",
+				"name4"					: "Standard Action 4",
+				"name5"					: "Standard Action 5",
+				"name6"					: "Standard Action 6"
+			},
+			"macrobuttons" : {
+				"name"					: "Number of macro buttons",
+				"descrp"				: "The number of displayed macro buttons ((shift)right click to open macro folder, drag & drop to choose macro, shift left click to remove macro)"
+			},
+			"consumableuse" : {
+				"name"					: "Consumable click behaviour",
+				"descrp"				: "What should happen when a consumable item is clicked:",
+				"options" : {
+					"consume"			: "Consume item",
+					"chat"				: "Send item to chat",
+					"consumechat"		: "Consume item & send to chat"
+				}
+			},
+			"onitemiconscale" : {
+				"name"					: "Info icon scale",
+				"descrp"				: "The scale of info icons on item buttons"
+			},
+			"iconshadow" : {
+				"name"					: "Info icon shadow intensity",
+				"descrp"				: "The intensity of the info icon contrast shadow on item buttons"
+			},
+			"showpassives" : {
+				"name"					: "Show NPC passives",
+				"descrp"				: "If the passives of NPCs should be shown"
+			},
+			"showmacrocategory" : {
+				"name"					: "Show macro category",
+				"descrp"				: "If a macro category should be shown in the HUD (based on the macros in the Foundry macro bar)"
+			}
+		}
+	},
+	
+    "enhancedcombathud.themeOptions.mainAction" : "Standard Action Colors",
+    "enhancedcombathud.themeOptions.bonusAction" : "Reaction Colors",
+    "enhancedcombathud.themeOptions.freeAction" : "Free Action Colors",
+    "enhancedcombathud.themeOptions.reaction" : "Passive abilities Colors"
+}
