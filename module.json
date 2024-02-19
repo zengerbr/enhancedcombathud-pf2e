@@ -8,10 +8,6 @@
     }
   ],
   "version": "1.7.2",
-  "compatibility": {
-    "minimum": "11",
-    "verified": "11"
-  },
   "socket": "true",
   "languages": [
     {
@@ -30,6 +26,12 @@
       "lang": "pl",
       "name": "polski",
       "path": "lang/pl.json",
+      "flags": {}
+    },
+    {
+      "lang": "pt-BR",
+      "name": "Brazilian",
+      "path": "lang/pt-br.json",
       "flags": {}
     }
   ],
