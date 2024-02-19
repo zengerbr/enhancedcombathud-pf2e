@@ -51,7 +51,7 @@
 			},
 			"showtrainedrankletter" : {
 				"name"					: "Mostrar letra de ranque",
-				"descrp"				: "Mostar letra ao lado dos saves e Perícias para indicar o ranque de treinamento"
+				"descrp"				: "Mostrar letra ao lado dos salvamentos e Perícias para indicar o ranque de treinamento"
 			},
 			"skillrankiconscale" : {
 				"name"					: "Escala de letras do ranque treinado",
@@ -59,7 +59,7 @@
 			},
 			"onlyonespellrank" : {
 				"name"					: "Apenas um ranque de Magia aberto",
-				"descrp"				: "Feixa todas os outros painéis de ranques de magia quando um ranque de magia é aberto" 
+				"descrp"				: "Fecha todas os outros painéis de ranques de magia quando um ranque de magia é aberto" 
 			},
 			"weaponsetscount" : {
 				"name"					: "Conjunto de Armas",
@@ -70,16 +70,16 @@
 				"descrp"				: "Se o cajado deve ser usado como um item conjurador de magia ai invés de arma como padrão"
 			},
 			"consumableswap" : {
-				"name"					: "Consumeables swapable",
-				"descrp"				: "If consumables that can be held should have an action icon to swap them into the active weapon set"	
+				"name"					: "Consumíveis Substituíveis",
+				"descrp"				: "Se consumíveis que podem ser segurados devem ter um ícone de ação para muda-los dentro do conjunto ativo de armas"	
 			},
 			"reduceAoO" : {
-				"name"					: "Reduce Attack of Opportunity buttons",
-				"descrp"				: "If buttons connected to Attack of Opportunity should be reduced in size/hidden"	
+				"name"					: "Reduzir botão do Araque de Oportunidade",
+				"descrp"				: "Se botões do Ataque de Oportunidade deve ser Reduzido/Escondido"	
 			},
 			"usetakecover": {
-				"name"					: "Use take cover",
-				"descrp"				: "If the take cover action should be used (instead of being posted to the chat)"	
+				"name"					: "Uso de Pegar Cobertura",
+				"descrp"				: "Se a ação pegar cobertura deve ser usada (em vez de ser colocado no chat)"	
 			},
 			"ECHAction" : {
 				"name1"					: "Ação Padrão 1",
@@ -94,8 +94,8 @@
 				"descrp"				: "A quantidade de botões de Macro aparecendo((shift)botão direito do mouse para abrir pasta de macros, arraste e solte para escolher o macro, shift botão esquerdo do mouse para remover o macro)"
 			},
 			"consumableuse" : {
-				"name"					: "Comportamento ao clicar em um consumivel",
-				"descrp"				: "O que deve acontecer quando um item consumivel é clicado:",
+				"name"					: "Comportamento ao clicar em um consumível",
+				"descrp"				: "O que deve acontecer quando um item consumível é clicado:",
 				"options" : {
 					"consume"			: "Consumir item",
 					"chat"				: "Enviar para o chat",
@@ -103,12 +103,12 @@
 				}
 			},
 			"onitemiconscale" : {
-				"name"					: "Escala do icone de informação",
-				"descrp"				: "A escala dos incones de informações nos botões de item"
+				"name"					: "Escala do ícone de informação",
+				"descrp"				: "A escala dos ícones de informações nos botões de item"
 			},
 			"iconshadow" : {
-				"name"					: "Itensidade da sombra dos incones de informações",
-				"descrp"				: "A intensidade do contraste da sombra dos icone de informações nos botões"
+				"name"					: "Intensidade da sombra dos ícones de informações",
+				"descrp"				: "A intensidade do contraste da sombra dos ícone de informações nos botões"
 			},
 			"showpassives" : {
 				"name"					: "Mostrar passivas dos NPCs",
@@ -116,7 +116,7 @@
 			},
 			"showmacrocategory" : {
 				"name"					: "Mostrar categoria de Macros",
-				"descrp"				: "Se a categora do macro deve ser exibida no HUD(Baseado nos macros da barra de macros do Foundry)"
+				"descrp"				: "Se a categoria do macro deve ser exibida no HUD(Baseado nos macros da barra de macros do Foundry)"
 			}
 		}
 	},
