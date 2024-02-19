@@ -38,7 +38,7 @@
 				"descrp"				: "Se os traços do NPC devem aparecer no retrato do personagem"
 			},
 			"panondblclick" : {
-				"name"					: "Pan em um clique duplo",
+				"name"					: "Ir ao token em um clique duplo",
 				"descrp"				: "Câmera vai para o token atual quando um clique duplo é dado na imagem do retrato"
 			},
 			"reversesaveskilllore" : {
@@ -47,27 +47,27 @@
 			},
 			"filtertrainedactions" : {
 				"name"					: "Filtrar ações treinadas",
-				"descrp"				: "If the actions that can not be used due to the character not being trained in the appropiate skill should be hidden"
+				"descrp"				: "Se a ação que não poder ser usada devido ao personagem não ser treinado deve ser escondida"
 			},
 			"showtrainedrankletter" : {
-				"name"					: "Show trained rank letter",
-				"descrp"				: "Shows a letter next to saves & skills to indicate the training rank"
+				"name"					: "Mostrar letra de ranque",
+				"descrp"				: "Mostar letra ao lado dos saves e Perícias para indicar o ranque de treinamento"
 			},
 			"skillrankiconscale" : {
-				"name"					: "Trained rank letter scale",
-				"descrp"				: "The scale of the rank letter for saves & skills"
+				"name"					: "Escala de letras do ranque treinado",
+				"descrp"				: "A escala da letra do ranque para salvamentos e Perícias"
 			},
 			"onlyonespellrank" : {
-				"name"					: "Only one spell rank open",
-				"descrp"				: "Closes all other spell rank panels when a spell rank is opened" 
+				"name"					: "Apenas um ranque de Magia aberto",
+				"descrp"				: "Feixa todas os outros painéis de ranques de magia quando um ranque de magia é aberto" 
 			},
 			"weaponsetscount" : {
-				"name"					: "Weapon sets",
-				"descrp"				: "Amount of displayed weapon sets"
+				"name"					: "Conjunto de Armas",
+				"descrp"				: "Quantidade de conjunto de armas que aparecerá"
 			},
 			"directStaffuse" : {
-				"name"					: "Direct Staff use",
-				"descrp"				: "If magical Staves should be used as spell casting items instead of weapons by default"
+				"name"					: "Uso direto do Cajado",
+				"descrp"				: "Se o cajado deve ser usado como um item conjurador de magia ai invés de arma como padrão"
 			},
 			"consumableswap" : {
 				"name"					: "Consumeables swapable",
@@ -82,47 +82,47 @@
 				"descrp"				: "If the take cover action should be used (instead of being posted to the chat)"	
 			},
 			"ECHAction" : {
-				"name1"					: "Standard Action 1",
-				"name2"					: "Standard Action 2",
-				"name3"					: "Standard Action 3",
-				"name4"					: "Standard Action 4",
-				"name5"					: "Standard Action 5",
-				"name6"					: "Standard Action 6"
+				"name1"					: "Ação Padrão 1",
+				"name2"					: "Ação Padrão 2",
+				"name3"					: "Ação Padrão 3",
+				"name4"					: "Ação Padrão 4",
+				"name5"					: "Ação Padrão 5",
+				"name6"					: "Ação Padrão 6"
 			},
 			"macrobuttons" : {
-				"name"					: "Number of macro buttons",
-				"descrp"				: "The number of displayed macro buttons ((shift)right click to open macro folder, drag & drop to choose macro, shift left click to remove macro)"
+				"name"					: "Quantidade de Botões de Macro",
+				"descrp"				: "A quantidade de botões de Macro aparecendo((shift)botão direito do mouse para abrir pasta de macros, arraste e solte para escolher o macro, shift botão esquerdo do mouse para remover o macro)"
 			},
 			"consumableuse" : {
-				"name"					: "Consumable click behaviour",
-				"descrp"				: "What should happen when a consumable item is clicked:",
+				"name"					: "Comportamento ao clicar em um consumivel",
+				"descrp"				: "O que deve acontecer quando um item consumivel é clicado:",
 				"options" : {
-					"consume"			: "Consume item",
-					"chat"				: "Send item to chat",
-					"consumechat"		: "Consume item & send to chat"
+					"consume"			: "Consumir item",
+					"chat"				: "Enviar para o chat",
+					"consumechat"		: "Consumir item e enviar para o chat"
 				}
 			},
 			"onitemiconscale" : {
-				"name"					: "Info icon scale",
-				"descrp"				: "The scale of info icons on item buttons"
+				"name"					: "Escala do icone de informação",
+				"descrp"				: "A escala dos incones de informações nos botões de item"
 			},
 			"iconshadow" : {
-				"name"					: "Info icon shadow intensity",
-				"descrp"				: "The intensity of the info icon contrast shadow on item buttons"
+				"name"					: "Itensidade da sombra dos incones de informações",
+				"descrp"				: "A intensidade do contraste da sombra dos icone de informações nos botões"
 			},
 			"showpassives" : {
-				"name"					: "Show NPC passives",
-				"descrp"				: "If the passives of NPCs should be shown"
+				"name"					: "Mostrar passivas dos NPCs",
+				"descrp"				: "Se as passivas dos NPCs devem ser exibidas"
 			},
 			"showmacrocategory" : {
-				"name"					: "Show macro category",
-				"descrp"				: "If a macro category should be shown in the HUD (based on the macros in the Foundry macro bar)"
+				"name"					: "Mostrar categoria de Macros",
+				"descrp"				: "Se a categora do macro deve ser exibida no HUD(Baseado nos macros da barra de macros do Foundry)"
 			}
 		}
 	},
 	
-    "enhancedcombathud.themeOptions.mainAction" : "Standard Action Colors",
-    "enhancedcombathud.themeOptions.bonusAction" : "Reaction Colors",
-    "enhancedcombathud.themeOptions.freeAction" : "Free Action Colors",
-    "enhancedcombathud.themeOptions.reaction" : "Passive abilities Colors"
+    "enhancedcombathud.themeOptions.mainAction" : "Cores das Ações Padrão",
+    "enhancedcombathud.themeOptions.bonusAction" : "Cores das Reações",
+    "enhancedcombathud.themeOptions.freeAction" : "Cores das Ações Livres",
+    "enhancedcombathud.themeOptions.reaction" : "Cores das Habilidades Passivas"
 }
